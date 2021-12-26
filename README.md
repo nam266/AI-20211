@@ -1,9 +1,14 @@
-## 描述：
-该程序使用alpha-beta剪枝算法，以及比较合理的局面评价函数。搜索深度为6。
+##Đề tài
+Chương trình cờ tướng đánh với máy
 
-## 目前存在的问题：
-存在如下一些问题: 连续吃子和连续将军的bug。另外还有剪枝算法可能还存在一些问题。
-ui不是很美观等问题。功能不是很多。
+##Cách cài đặt và chạy chương trình
++IDE: Eclipse
 
-## 效果图
-![效果图](pic/snapshot.gif)
++JRE: JavaSE-1.7
+
+(Nếu còn thiếu thì add thêm Thư viện jlayer-1.0.1.jar 
+Link download:http://www.java2s.com/Code/Jar/j/Downloadjlayer101jar.htm )
+
+##Hình ảnh trò chơi
+
+![image](https://user-images.githubusercontent.com/56263757/147412058-5be4e3eb-7cc1-4ff8-903e-3c34ff544a31.png)
