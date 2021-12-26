@@ -8,7 +8,7 @@ Chương trình cờ tướng đánh với máy
 
 +JRE: JavaSE-1.7
 
-(Nếu còn thiếu thì add thêm Thư viện jlayer-1.0.1.jar 
+(Nếu còn thiếu thì add thêm DEPENDANCY  jlayer-1.0.1.jar 
 
 Link download:http://www.java2s.com/Code/Jar/j/Downloadjlayer101jar.htm )
 
